@@ -1,9 +1,9 @@
 ### Hi, I'm Daniel 👋
 
-    I am a PhD Candidate at [Johns Hopkins University](https://jhu.edu) department of [Computer Science](https://cs.jhu.edu).
-    Before joining Hopkins, I was a Bioinformatics Scientist at ARUP Laboratories where I worked on
-    cell-free circulating tumor DNA (_ctDNA_) analysis and clinical genomics after my training
-    in Physics [BS] and Biophysics/Computational Biology [MS].
+PhD Candidate at [Johns Hopkins University](https://jhu.edu) department of [Computer Science](https://cs.jhu.edu).
+Previously, I was a Bioinformatics Scientist at ARUP Laboratories, where I worked on
+cell-free circulating tumor DNA (_ctDNA_) analysis and clinical genomics after my training
+in Physics [BS] and Biophysics/Computational Biology [MS].
 
 🔭 Currently working on similarity search, and clustering, and indexing for large-scale data
 
