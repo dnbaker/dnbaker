@@ -30,7 +30,7 @@ Designed for ctDNA, this method can reduce error rates by orders of magnitude, a
 
 3. General C++
 
-Most of my projects fall into this category, being tool I can reuse in various projects.
+Most of my projects fall into this category, serving as tools I can reuse in various projects.
 
 Some of my favorites:
 
