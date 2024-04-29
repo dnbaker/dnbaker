@@ -1,11 +1,13 @@
 ### Hi, I'm Daniel 👋
 
-PhD Candidate at [Johns Hopkins University](https://jhu.edu) department of [Computer Science](https://cs.jhu.edu).
-Previously, I was a Bioinformatics Scientist at ARUP Laboratories, where I worked on
+Senior Scientist at Pacific Biosciences (PacBio). Previously, I was a PhD Candidate at [Johns Hopkins University](https://jhu.edu) in the department of [Computer Science](https://cs.jhu.edu).
+Before that I was a Bioinformatics Scientist at ARUP Laboratories, where I worked on
 cell-free circulating tumor DNA (_ctDNA_) analysis and clinical genomics after my training
 in Physics [BS] and Biophysics/Computational Biology [MS].
+I've worked with biological data (sequence, molecular modeling, metabolomics, transcriptomics, metagenomics), telecommunications data, as well as graph algorithms, machine learning, and numerical optimization.
 
-🔭 Currently working on similarity search, and clustering, and indexing for large-scale data
+🔭 I've worked on similarity search, and clustering, and indexing for large-scale biological data, simd/gpu-accelerated and randomized algorithms.
+   Most recently, I've been developing methods for human genetics, including long RNA-seq, VNTRs, and haplotype phasing.
 
 😄 Pronouns: He/Him/His
 
@@ -13,20 +15,24 @@ in Physics [BS] and Biophysics/Computational Biology [MS].
 
 1. Practical randomized algorithms
 
-This ranges from libraries providing [sketch data structures](https://github.com/dnbaker/sketch) and [coresets](https://github.com/dnbaker/minocore),
+This ranges from libraries providing [sketch data structures](https://github.com/dnbaker/sketch) and [coresets](https://github.com/dnbaker/minicore),
 as well as projects using [random projections](https://github.com/dnbaker/frp) and [DCI](https://github.com/dnbaker/DCI).
 
-My work on coresets and clustering is primarily part of the [minocore](https://github.com/dnbaker/minocore) project, with the aims
+My work on coresets and clustering is primarily part of the [minicore](https://github.com/dnbaker/minicore) project, with the aims
 of providing a standard utility for coreset construction and weighted clustering, especially for exponential family models and shortest-paths metrics.
 
 2. Computational Biology
 
 The [bonsai](https://github.com/dnbaker/bonsai) project provides methods for __metagenomic__ analysis,
-along with k-mer encoding/decoding and I/O, while the [Dashing](https://github.com/dnbaker/dashing) performs scalable
+along with k-mer encoding/decoding and I/O, while the [Dashing](https://github.com/dnbaker/dashing2) performs scalable
 sketching and comparison of sequence data.
 
 [BMFtools](https://github.com/dnbaker/bmftools) performs molecular demultiplication over sequencing barcoded data, reducing error rates while eliminating redundant information.
 Designed for ctDNA, this method can reduce error rates by orders of magnitude, allowing confident detection of very rare events.
+
+[scavenger](https://github.com/dnbaker/scavenger) has rust implementations using tch-rs for VAEs for count-based data, applied to single-cell transcriptomics.
+
+I also co-developed [pbfusion](https://github.com/PacificBiosciences/pbfusion), a fast tool for characterizing transcriptional abnormalities.
 
 3. General C++
 
