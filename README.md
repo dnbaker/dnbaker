@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-Senior Scientist at Pacific Biosciences (PacBio). Previously, I was a PhD Candidate at [Johns Hopkins University](https://jhu.edu) in the department of [Computer Science](https://cs.jhu.edu).
+Software Engineer at Roche. Previously, I was a Senior Scientist at Pacific Biosciences (PacBio) after earning my PhD at [Johns Hopkins University](https://jhu.edu) in the department of [Computer Science](https://cs.jhu.edu).
 Before that I was a Bioinformatics Scientist at ARUP Laboratories, where I worked on
 cell-free circulating tumor DNA (_ctDNA_) analysis and clinical genomics after my training
 in Physics [BS] and Biophysics/Computational Biology [MS].
